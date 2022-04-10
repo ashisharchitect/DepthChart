@@ -22,7 +22,6 @@ namespace TestDepthChart
             };
 
             int positionDepth1 = 0;
-
             var result = objTest.AddPlayerToDepthChart(position1, player1, positionDepth1);
         
             //2
